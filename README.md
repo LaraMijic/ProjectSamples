@@ -1,6 +1,6 @@
 # ProjectSamples
 
-This repo holds past university projects to showcase past work.
+This repo holds university projects to showcase past work.
 
 ### Data Mining Project
 
